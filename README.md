@@ -30,4 +30,4 @@ Homepage: https://exitlag-suite.softyx.xyz
 3. **Replay System:** Match recording, highlight detection, and shareable clip export.
 
 ## A note on usage
-> This project is shared as-is. All product names and logos belong to their respective owners.   
+> This project is shared as-is. All product names and logos belong to their respective owners.    
